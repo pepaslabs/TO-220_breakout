@@ -51,4 +51,4 @@ Have this board manufactured by OSHPark: http://oshpark.com/shared_projects/35mM
 
 ## License
 
-This board design is [Open-Source Hardware](http://www.oshwa.org/definition/).  It is licensed under the [MIT License](http://opensource.org/licenses/MIT).
+This board design is [Open-Source Hardware](http://www.oshwa.org/definition/).  It is licensed under the [MIT License](http://opensource.org/licenses/MIT).  It was designed by Jason Pepas and (will be) sold by Pepas Labs, LLC on tindie.com.
