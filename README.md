@@ -13,7 +13,7 @@ Bottom side of board:
 
 ## Releases
 
-* [v1](https://github.com/pepaslabs/TO-220_breakout/releases/tag/v1.0)
+* [v1 (2014/3/12)](https://github.com/pepaslabs/TO-220_breakout/releases/tag/v1.0)
 
 ## Two TO-220 footprints
 
