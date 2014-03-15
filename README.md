@@ -11,6 +11,10 @@ Bottom side of board:
 
 ![alt text](https://raw.github.com/pepaslabs/TO-220_breakout/master/revisions/v1/bottom.png "Bottom side of board")
 
+## Releases
+
+* [v1](https://github.com/pepaslabs/TO-220_breakout/releases/tag/v1.0)
+
 ## Two TO-220 footprints
 
 A second TO-220 footprint has been included for mounting to the back side of the heatsink.  This is useful for, e.g.:
