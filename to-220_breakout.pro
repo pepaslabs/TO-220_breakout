@@ -1,4 +1,4 @@
-update=3/11/2014 10:59:50 PM
+update=3/14/2014 8:49:54 PM
 last_client=kicad
 [pcbnew]
 version=1
@@ -20,10 +20,10 @@ DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
 [pcbnew/libraries]
-LibDir=../KiCADParts
-LibName1=OSHW-logo
-LibName2=TO-220_PL
-LibName3=mounting_holes_PL
+LibDir=
+LibName1=TO-220_PL
+LibName2=mounting_holes_PL
+LibName3=OSHW-logo
 LibName4=heatsinks_PL
 LibName5=sockets
 LibName6=connect
