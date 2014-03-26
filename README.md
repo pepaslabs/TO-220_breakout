@@ -1,19 +1,20 @@
-TO-220_breakout
-===============
+TO-220 breakout v2
+==================
 
-A breakout board for mounting TO-220 parts to a heatsink.
+A breakout board for mounting TO-220 parts to a heatsink (also fits TO-218 and TO-247).
 
 Top side of board:
 
-![alt text](https://raw.github.com/pepaslabs/TO-220_breakout/master/revisions/v1/top.png "Top side of board")
+![alt text](https://raw.github.com/pepaslabs/TO-220_breakout/master/revisions/v2/top.png "Top side of board")
 
 Bottom side of board:
 
-![alt text](https://raw.github.com/pepaslabs/TO-220_breakout/master/revisions/v1/bottom.png "Bottom side of board")
+![alt text](https://raw.github.com/pepaslabs/TO-220_breakout/master/revisions/v2/bottom.png "Bottom side of board")
 
 ## Releases
 
 * [v1 (2014/3/12)](https://github.com/pepaslabs/TO-220_breakout/releases/tag/v1.0)
+* [v2 (2014/3/25)](https://github.com/pepaslabs/TO-220_breakout/releases/tag/v2.0)
 
 ## Two TO-220 footprints
 
@@ -51,7 +52,9 @@ Typically, pin 2 of a TO-220 part will be shorted to the backing plate which mou
 
 ## OSHPark URL:
 
-Have this board manufactured by OSHPark: http://oshpark.com/shared_projects/35mMKncx
+Have this board manufactured by OSHPark:
+* v2: http://oshpark.com/shared_projects/jGXeibCv
+* v1: http://oshpark.com/shared_projects/35mMKncx
 
 ## License
 
