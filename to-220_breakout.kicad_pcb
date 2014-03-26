@@ -32,7 +32,7 @@
   )
 
   (setup
-    (last_trace_width 2.032)
+    (last_trace_width 0.254)
     (user_trace_width 2.032)
     (trace_clearance 0.254)
     (zone_clearance 0.508)
@@ -54,8 +54,8 @@
     (mod_edge_width 0.15)
     (mod_text_size 1 1)
     (mod_text_width 0.15)
-    (pad_size 3.048 3.048)
-    (pad_drill 2.032)
+    (pad_size 1.7526 1.7526)
+    (pad_drill 1.016)
     (pad_to_mask_clearance 0)
     (aux_axis_origin 0 0)
     (visible_elements 7FFFFFFF)
@@ -504,51 +504,6 @@
     )
   )
 
-  (module 1pin_032_058 (layer F.Cu) (tedit 5323B8D7) (tstamp 5326B046)
-    (at 213.36 149.86)
-    (descr "1 pin, 0.032\" drill, 0.058\" round pad")
-    (path 1pin)
-    (fp_text reference H*** (at 0 -2.54) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.254)))
-    )
-    (fp_text value Val** (at 0 2.54) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.254)))
-    )
-    (pad 1 thru_hole oval (at 0 0) (size 1.4732 1.4732) (drill 0.8128)
-      (layers *.Cu *.Mask F.SilkS)
-    )
-  )
-
-  (module 1pin_032_058 (layer F.Cu) (tedit 5323B8D7) (tstamp 5326B05B)
-    (at 208.28 149.86)
-    (descr "1 pin, 0.032\" drill, 0.058\" round pad")
-    (path 1pin)
-    (fp_text reference H*** (at 0 -2.54) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.254)))
-    )
-    (fp_text value Val** (at 0 2.54) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.254)))
-    )
-    (pad 1 thru_hole oval (at 0 0) (size 1.4732 1.4732) (drill 0.8128)
-      (layers *.Cu *.Mask F.SilkS)
-    )
-  )
-
-  (module 1pin_032_058 (layer F.Cu) (tedit 5323B8D7) (tstamp 5326B064)
-    (at 210.82 149.86)
-    (descr "1 pin, 0.032\" drill, 0.058\" round pad")
-    (path 1pin)
-    (fp_text reference H*** (at 0 -2.54) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.254)))
-    )
-    (fp_text value Val** (at 0 2.54) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.254)))
-    )
-    (pad 1 thru_hole oval (at 0 0) (size 1.4732 1.4732) (drill 0.8128)
-      (layers *.Cu *.Mask F.SilkS)
-    )
-  )
-
   (module 1pin_08_12 (layer F.Cu) (tedit 5323BA8B) (tstamp 5326B0CE)
     (at 220.98 147.32)
     (descr "1 pin, 0.08\" drill, 0.12\" round pad")
@@ -590,51 +545,6 @@
       (effects (font (size 1.016 1.016) (thickness 0.254)))
     )
     (pad 1 thru_hole circle (at 0 0) (size 3.048 3.048) (drill 2.032)
-      (layers *.Cu *.Mask F.SilkS)
-    )
-  )
-
-  (module 1pin_032_058 (layer F.Cu) (tedit 5323B8D7) (tstamp 5326B112)
-    (at 226.06 149.86)
-    (descr "1 pin, 0.032\" drill, 0.058\" round pad")
-    (path 1pin)
-    (fp_text reference H*** (at 0 -2.54) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.254)))
-    )
-    (fp_text value Val** (at 0 2.54) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.254)))
-    )
-    (pad 1 thru_hole oval (at 0 0) (size 1.4732 1.4732) (drill 0.8128)
-      (layers *.Cu *.Mask F.SilkS)
-    )
-  )
-
-  (module 1pin_032_058 (layer F.Cu) (tedit 5323B8D7) (tstamp 5326B11B)
-    (at 223.52 149.86)
-    (descr "1 pin, 0.032\" drill, 0.058\" round pad")
-    (path 1pin)
-    (fp_text reference H*** (at 0 -2.54) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.254)))
-    )
-    (fp_text value Val** (at 0 2.54) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.254)))
-    )
-    (pad 1 thru_hole oval (at 0 0) (size 1.4732 1.4732) (drill 0.8128)
-      (layers *.Cu *.Mask F.SilkS)
-    )
-  )
-
-  (module 1pin_032_058 (layer F.Cu) (tedit 5323B8D7) (tstamp 5326B124)
-    (at 228.6 149.86)
-    (descr "1 pin, 0.032\" drill, 0.058\" round pad")
-    (path 1pin)
-    (fp_text reference H*** (at 0 -2.54) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.254)))
-    )
-    (fp_text value Val** (at 0 2.54) (layer F.SilkS) hide
-      (effects (font (size 1.016 1.016) (thickness 0.254)))
-    )
-    (pad 1 thru_hole oval (at 0 0) (size 1.4732 1.4732) (drill 0.8128)
       (layers *.Cu *.Mask F.SilkS)
     )
   )
@@ -707,6 +617,96 @@
     )
   )
 
+  (module 1pin_040_069 (layer F.Cu) (tedit 53325090) (tstamp 5332AFC0)
+    (at 208.28 149.86)
+    (descr "1 pin, 0.040\" drill, 0.069\" round pad")
+    (path 1pin)
+    (fp_text reference H*** (at 0 -2.54) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.254)))
+    )
+    (fp_text value Val** (at 0 2.54) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.254)))
+    )
+    (pad 1 thru_hole oval (at 0 0) (size 1.7526 1.7526) (drill 1.016)
+      (layers *.Cu *.Mask F.SilkS)
+    )
+  )
+
+  (module 1pin_040_069 (layer F.Cu) (tedit 53325090) (tstamp 5332AFC9)
+    (at 210.82 149.86)
+    (descr "1 pin, 0.040\" drill, 0.069\" round pad")
+    (path 1pin)
+    (fp_text reference H*** (at 0 -2.54) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.254)))
+    )
+    (fp_text value Val** (at 0 2.54) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.254)))
+    )
+    (pad 1 thru_hole oval (at 0 0) (size 1.7526 1.7526) (drill 1.016)
+      (layers *.Cu *.Mask F.SilkS)
+    )
+  )
+
+  (module 1pin_040_069 (layer F.Cu) (tedit 53325090) (tstamp 5332AFD2)
+    (at 213.36 149.86)
+    (descr "1 pin, 0.040\" drill, 0.069\" round pad")
+    (path 1pin)
+    (fp_text reference H*** (at 0 -2.54) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.254)))
+    )
+    (fp_text value Val** (at 0 2.54) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.254)))
+    )
+    (pad 1 thru_hole oval (at 0 0) (size 1.7526 1.7526) (drill 1.016)
+      (layers *.Cu *.Mask F.SilkS)
+    )
+  )
+
+  (module 1pin_040_069 (layer F.Cu) (tedit 53325090) (tstamp 5332AFDE)
+    (at 223.52 149.86)
+    (descr "1 pin, 0.040\" drill, 0.069\" round pad")
+    (path 1pin)
+    (fp_text reference H*** (at 0 -2.54) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.254)))
+    )
+    (fp_text value Val** (at 0 2.54) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.254)))
+    )
+    (pad 1 thru_hole oval (at 0 0) (size 1.7526 1.7526) (drill 1.016)
+      (layers *.Cu *.Mask F.SilkS)
+    )
+  )
+
+  (module 1pin_040_069 (layer F.Cu) (tedit 53325090) (tstamp 5332AFE7)
+    (at 226.06 149.86)
+    (descr "1 pin, 0.040\" drill, 0.069\" round pad")
+    (path 1pin)
+    (fp_text reference H*** (at 0 -2.54) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.254)))
+    )
+    (fp_text value Val** (at 0 2.54) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.254)))
+    )
+    (pad 1 thru_hole oval (at 0 0) (size 1.7526 1.7526) (drill 1.016)
+      (layers *.Cu *.Mask F.SilkS)
+    )
+  )
+
+  (module 1pin_040_069 (layer F.Cu) (tedit 53325090) (tstamp 5332AFF0)
+    (at 228.6 149.86)
+    (descr "1 pin, 0.040\" drill, 0.069\" round pad")
+    (path 1pin)
+    (fp_text reference H*** (at 0 -2.54) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.254)))
+    )
+    (fp_text value Val** (at 0 2.54) (layer F.SilkS) hide
+      (effects (font (size 1.016 1.016) (thickness 0.254)))
+    )
+    (pad 1 thru_hole oval (at 0 0) (size 1.7526 1.7526) (drill 1.016)
+      (layers *.Cu *.Mask F.SilkS)
+    )
+  )
+
   (gr_text "TO-220 breakout v2" (at 205.105 115.57) (layer B.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.2032)) (justify mirror))
   )
@@ -742,7 +742,7 @@
   (gr_line (start 196.215 113.665) (end 240.665 113.665) (angle 90) (layer Edge.Cuts) (width 0.1))
   (gr_line (start 196.215 151.765) (end 196.215 113.665) (angle 90) (layer Edge.Cuts) (width 0.1))
 
-  (segment (start 220.98 125.73) (end 223.52 123.19) (width 2.032) (layer B.Cu) (net 0) (status 400000))
+  (segment (start 220.98 125.73) (end 223.52 123.19) (width 2.032) (layer B.Cu) (net 0))
   (segment (start 231.14 137.16) (end 231.14 147.32) (width 2.032) (layer B.Cu) (net 0) (tstamp 532465A2))
   (segment (start 231.14 135.255) (end 231.14 137.16) (width 2.032) (layer B.Cu) (net 0) (tstamp 532465C6))
   (segment (start 234.95 131.445) (end 231.14 135.255) (width 2.032) (layer B.Cu) (net 0) (tstamp 532465C5))

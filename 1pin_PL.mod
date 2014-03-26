@@ -1,10 +1,11 @@
-PCBNEW-LibModule-V1  3/14/2014 9:27:44 PM
+PCBNEW-LibModule-V1  3/25/2014 10:59:20 PM
 # encoding utf-8
 Units mm
 $INDEX
 1pin_032_058
 1pin_032_058_087o
 1pin_032_058_116
+1pin_040_069
 1pin_08_12
 1pin_1_16
 $EndINDEX
@@ -59,6 +60,23 @@ Ne 0 ""
 Po 0 0
 $EndPAD
 $EndMODULE 1pin_032_058_116
+$MODULE 1pin_040_069
+Po 0 0 0 15 53325090 00000000 ~~
+Li 1pin_040_069
+Cd 1 pin, 0.040" drill, 0.069" round pad
+Sc 0
+AR 1pin
+Op 0 0 0
+T0 0 -2.54 1.016 1.016 0 0.254 N I 21 N "H***"
+T1 0 2.54 1.016 1.016 0 0.254 N I 21 N "Val**"
+$PAD
+Sh "1" O 1.7526 1.7526 0 0 0
+Dr 1.016 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE 1pin_040_069
 $MODULE 1pin_08_12
 Po 0 0 0 15 5323BA8B 00000000 ~~
 Li 1pin_08_12
