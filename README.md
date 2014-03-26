@@ -1,7 +1,7 @@
 TO-220 breakout v2
 ==================
 
-A breakout board for mounting TO-220 parts to a heatsink (also fits TO-218 and TO-247).
+KiCAD design of a breakout board for mounting TO-220 parts to a heatsink (also fits TO-218 and TO-247).
 
 Top side of board:
 
