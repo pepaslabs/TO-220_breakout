@@ -56,6 +56,10 @@ Have this board manufactured by OSHPark:
 * v2: http://oshpark.com/shared_projects/jGXeibCv
 * v1: http://oshpark.com/shared_projects/35mMKncx
 
+## Buy this board:
+
+I sell this board on Tindie: https://www.tindie.com/products/pepaslabs/to-220-breakout-board/
+
 ## License
 
 This board design is [Open-Source Hardware](http://www.oshwa.org/definition/).  It is licensed under the [MIT License](http://opensource.org/licenses/MIT).  It was designed by Jason Pepas and (will be) sold by Pepas Labs, LLC on tindie.com.
